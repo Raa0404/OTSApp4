@@ -1,0 +1,22 @@
+[
+  {
+    "ACCOUNT": "8725CF00000310",
+    "CIF ID": "C00003884",
+    "No. of A/C": 2,
+    "ACCT_NAME": "HIDAYAH BRICK FIELD",
+    "CIF CURRENT BAL": -319681.81,
+    "CIF balance": -248179.81,
+    "Actual NPA Date": "2022-10-04",
+    "%": 70
+  },
+  {
+    "ACCOUNT": "8725CF00000311",
+    "CIF ID": "C00003884",
+    "No. of A/C": 2,
+    "ACCT_NAME": "HIDAYAH BRICK FIELD",
+    "CIF CURRENT BAL": -319681.81,
+    "CIF balance": -248179.81,
+    "Actual NPA Date": "2022-10-04",
+    "%": 80
+  }
+]
